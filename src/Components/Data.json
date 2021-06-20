@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "name":"Iron Man",
+        "tel":"0976677890",
+        "permissions":1
+    },
+    {
+        "id":2,
+        "name":"SuperMan",
+        "tel":"0973377890",
+        "permissions":2
+    },
+    {
+        "id":3,
+        "name":"Captain America",
+        "tel":"0971277890",
+        "permissions":3
+    },
+    {
+        "id":4,
+        "name":"Super Power",
+        "tel":"0976633890",
+        "permissions":2
+    },
+    {
+        "id":5,
+        "name":"Black Panther",
+        "tel":"0976612340",
+        "permissions":1
+    },
+    {
+        "id":6,
+        "name":"Black Widow",
+        "tel":"0976679870",
+        "permissions":3
+    }
+]
